@@ -151,9 +151,3 @@ npm run build
 ```
 
 This creates an optimized, minified bundle in the `dist/` directory ready for hosting on Vercel, Netlify, or GitHub Pages.
-
----
-
-## 📄 License
-
-This project is licensed under the [ISC License](LICENSE).
